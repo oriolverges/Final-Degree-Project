@@ -9,3 +9,9 @@
 - **Date:** 18/06/2024
 - **Link:**
 
+This repository contains the main scripts and files used and generated for this Final Degree Project.
+
+### Abstract
+
+
+The repository is divided into ... folders containing 
